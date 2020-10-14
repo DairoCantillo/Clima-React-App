@@ -69,7 +69,7 @@ const Formulario = ({ busqueda, setBusqueda, setConsultar }) => {
       </button>
     </form>
   );
-};
+}; 
 
 Formulario.propTypes = {
   busqueda: PropTypes.object.isRequired,
